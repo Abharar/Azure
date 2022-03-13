@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Abharar'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_153D0B59EA464C33A09D8F95FAE352A6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAC2B348E6E146FF850418FB75CC9D28 }}
           package: .
